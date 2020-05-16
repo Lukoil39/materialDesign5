@@ -17,5 +17,4 @@
         android:scrollbarAlwaysDrawHorizontalTrack="true"
         app:layout_behavior="ru.leonidivankin.materialdesignlesson5.FabBehavior"
         app:srcCompat="@android:drawable/ic_dialog_email" />
-
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

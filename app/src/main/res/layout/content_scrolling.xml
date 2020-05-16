@@ -12,6 +12,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="@string/big_text" />
+        android:text="@string/eh_bien_mon_prince_g_nes_et_lucques_ne_sont_plus_que_des_apanages_des_de_la_famille_buonaparte_non_je_vous_pr_viens_que_si_vous_ne_me_dites_pas_que_nous_avons_la_guerre_si_vous_vous_permettez_encore_de_pallier_toutes_les_infamies_toutes_les_atrocit_s_de_cet_antichrist_ma_parole_j_y_crois_je_ne_vous_connais_plus_vous_n_tes_plus_mon_ami_vous_n_tes_plus_comme_vous_dites_1_je_vois_que_je_vous_fais_peur_2_1805_si_vous_n_avez_rien_de_mieux_faire_monsieur_le_comte_mon_prince_et_si_la_perspective_de_passer_la_soir_e_chez_une_pauvre_malade_ne_vous_effraye_pas_trop_je_serai_charm_e_de_vous_voir_chez_moi_entre_7_et_10_heures_annette_scherer_3_dieu_quelle_virulente_sortie_4" />
 
 </androidx.core.widget.NestedScrollView>
